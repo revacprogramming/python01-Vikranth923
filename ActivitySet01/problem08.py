@@ -12,6 +12,3 @@ for line in fh:
 avg=sm/n
 print("Average spam confidence:",avg)
 
-*** skjdng
-kfbxdbfvbdfvb
-zsvdbzjfdbvh***
