@@ -7,6 +7,4 @@ for i in c:
     for i in j:
         if i not in k:
             k.append(i)
-            
-
 print(sorted(k))

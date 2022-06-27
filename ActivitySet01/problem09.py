@@ -1,6 +1,6 @@
 f = "mbox-short.txt"
 c = open(f,"r")
-h = c.readlines()
+h = c.readlines()   
 n=0
 for i in h:
     k = i.split()
